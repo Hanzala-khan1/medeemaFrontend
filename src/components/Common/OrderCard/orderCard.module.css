@@ -1,0 +1,66 @@
+.bgcolor {
+  /* background-color: skyblue;
+  height: 100vh; */
+}
+.card {
+  height: auto;
+  max-width: 768px;
+  border-radius: 16px;
+  padding: 20px;
+  background-color: white;
+}
+.nurseimg {
+  width: 300px;
+  height: 250px;
+  border-radius: 16px;
+}
+.flx {
+  display: flex;
+  flex-direction: row;
+}
+.mt20 {
+  margin-top: 20px;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.btn {
+  padding: 5px 20px;
+  border-radius: 16px;
+  border: 1px solid #00276d;
+  margin-left: auto;
+  color: #00276d;
+  font-weight: 600;
+}
+.text {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #00276d;
+}
+.text2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #00276d;
+}
+.text3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #a9abad;
+}
+.bar {
+  padding: 10px 20px;
+  border-radius: 50px;
+  background-color: #cfd0d2;
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+  font-weight: 500;
+  color: #00276d;
+  justify-content: space-between;
+}
+.end {
+  margin-left: auto;
+}
+.colorBlack {
+  color: black;
+}
